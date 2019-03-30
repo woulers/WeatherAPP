@@ -12,3 +12,17 @@ C:\Users\ryans\source\repos\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\Newt
 C:\Users\ryans\source\repos\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\ryans\source\repos\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ryans\source\repos\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.csproj.CopyComplete
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.csprojAssemblyReference.cache
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.Form1.resources
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.Properties.Resources.resources
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.csproj.GenerateResource.cache
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.csproj.CoreCompileInputs.cache
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.exe
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.pdb
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\GrabbingTheWeather.exe.config
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\GrabbingTheWeather.exe
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\GrabbingTheWeather.pdb
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\Newtonsoft.Json.pdb
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Code\WeatherAPP\GrabbingTheWeather\GrabbingTheWeather\obj\Debug\GrabbingTheWeather.csproj.CopyComplete

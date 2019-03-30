@@ -24,11 +24,12 @@ namespace GrabbingTheWeather
 
         private void weather(string Location)
         {
+            var OWM = new OpenWeatherMap();
             try
             {
                 label2.Text = "loading...";
                 label2.Update();
-                label2.Text = OpenWeatherMap.GetWeather(Location);
+                label2.Text = OWM.GetWeather(Location);
             }
             catch (Exception ex)
             {
